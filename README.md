@@ -35,3 +35,19 @@ Driver’s licenses
 Someday, voting and national identities can perhaps be supported through blockchain technologies. Blockchain can possibly even be used to trace where your products came from and that they are not fakes. Blockchain is so revolutionary, people are discovering new applications for it every day.
 
 "
+
+-----
+When Will the Future Arrive?
+According to the World Economic Forum Technology Tipping Points and Societal Impact report, the following technology tipping points could occur by 2025:
+
+10% of people wearing clothes connected to the Internet
+The first robotic pharmacist in the US
+The first 3D-printed car in production
+5% of consumer products printed in 3D
+90% of the population with regular access to the Internet
+Driverless cars equaling 10% of all cars on US roads
+The first transplant of a 3D-printed liver
+Over 50% of Internet traffic to homes for appliances and devices
+The first city with more than 50,000 people and no traffic lights
+The first AI machine on a corporate board of directors
+What 

@@ -9,4 +9,7 @@ Work with Leads and Opportunities
  []
  https://trailhead.salesforce.com/content/learn/modules/lex_salesforce_tour/lex_salesforce_tour_sales?trailmix_creator_id=plafonte&trailmix_slug=welcome-to-salesforce
 
- 
+Check Out Reports, Dashboards, Feeds, and More
+[]
+https://trailhead.salesforce.com/content/learn/modules/lex_salesforce_tour/lex_salesforce_tour_more?trailmix_creator_id=plafonte&trailmix_slug=welcome-to-salesforce
+

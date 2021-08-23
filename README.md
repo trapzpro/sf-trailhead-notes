@@ -51,3 +51,16 @@ Over 50% of Internet traffic to homes for appliances and devices
 The first city with more than 50,000 people and no traffic lights
 The first AI machine on a corporate board of directors
 What 
+
+----
+
+
+Grow Your Business with Sales Cloud
+Learning Objectives
+After completing this unit, you’ll be able to:
+
+List ways Sales Cloud can help improve your lead management.
+Describe how Sales Cloud can make your sales team more productive.
+Explain how the Salesforce mobile app can make your team a mobile powerhouse.
+[]
+https://trailhead.salesforce.com/content/learn/modules/sales-cloud-platform-quick-look/grow-your-business-with-the-sales-cloud-platform?trail_id=crm&trailmix_creator_id=plafonte&trailmix_slug=welcome-to-salesforce

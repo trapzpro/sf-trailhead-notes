@@ -83,3 +83,16 @@ Sharing rules enable you to make automatic exceptions to organization–wide def
 Manual sharing allows owners of particular records to share them with other users. Although manual sharing isn't automated like organization–wide sharing settings, role hierarchies, or sharing rules, it can be useful in some situations, for example, if a recruiter going on vacation needs to temporarily assign ownership of a job application to another employee.
 
 https://trailhead.salesforce.com/content/learn/modules/lex_implementation_user_setup_mgmt/lex_implementation_user_setup_mgmt_configure_user_access?trail_id=lex_admin_implementation&trailmix_creator_id=plafonte&trailmix_slug=welcome-to-salesforce
+
+Control What Your Users Can Access
+Learning Objectives
+After completing this unit, you’ll be able to:
+Describe the difference between object and field level security
+Describe how to set org–wide default sharing settingsControl What Your Users Can Access
+Learning Objectives
+After completing this unit, you’ll be able to:
+Describe the difference between object and field level security
+Describe how to set org–wide default sharing settings
+[]
+https://trailhead.salesforce.com/en/content/learn/modules/lex_implementation_user_setup_mgmt/lex_implementation_user_setup_mgmt_configure_user_access?trail_id=lex_admin_implementation&trailmix_creator_id=plafonte&trailmix_slug=welcome-to-salesforce
+
